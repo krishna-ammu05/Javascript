@@ -1,0 +1,21 @@
+h1{
+    color: bisque;
+    background-color: aquamarine;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+button{
+    background-color: black;
+    color:azure
+}
+.box{
+    height:100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
